@@ -1,0 +1,60 @@
+{
+    "user_name": "Jyothish S L",
+    "user_username": "jyothishsl",
+    "user_bio": "Automation professional specializing in enterprise workflow automation, AI-powered productivity systems, and digital transformation solutions across banking, government, and ERP domains. Experienced in building scalable automation workflows using AI agents, voice assistants, human-in-the-loop systems.",
+    "user_links": "https://linkedin.com/in/jyothish-s-l-52446720b",
+    "user_avatar": "https://gravatar.com/avatar/bab38c8a1d6bdbe250f8440fe733bd76a2d4619a16e238084058ba8f54baed02?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15754\n",
+    "url_n8n": "https://n8n.io/workflows/15754",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 3
+        },
+        "n8n-nodes-base.code": {
+            "count": 3
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 5
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-base.telegram": {
+            "count": 7
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 24
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleCalendar": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 4
+        },
+        "n8n-nodes-base.telegramTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmOllama": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOllama": {
+            "count": 4
+        },
+        "@n8n/n8n-nodes-langchain.textClassifier": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 43,
+            "name": "Personal Productivity"
+        },
+        {
+            "id": 47,
+            "name": "AI Chatbot"
+        }
+    ]
+}

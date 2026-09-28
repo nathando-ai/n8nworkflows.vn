@@ -1,0 +1,66 @@
+{
+    "user_name": "Jyothish S L",
+    "user_username": "jyothishsl",
+    "user_bio": "Automation professional with experience in designing and delivering enterprise-grade automation solutions across banking, government, and ERP domains. Focused on improving business efficiency, reducing manual effort, and enabling scalable digital transformation.",
+    "user_links": "linkedin.com/in/jyothish-s-l-52446720b",
+    "user_avatar": "https://gravatar.com/avatar/bab38c8a1d6bdbe250f8440fe733bd76a2d4619a16e238084058ba8f54baed02?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15707\n",
+    "url_n8n": "https://n8n.io/workflows/15707",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.form": {
+            "count": 2
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 2
+        },
+        "n8n-nodes-base.switch": {
+            "count": 1
+        },
+        "n8n-nodes-base.telegram": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 18
+        },
+        "n8n-nodes-base.formTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.extractFromFile": {
+            "count": 5
+        },
+        "n8n-nodes-base.telegramTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOllama": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.chainRetrievalQa": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.embeddingsOllama": {
+            "count": 2
+        },
+        "@n8n/n8n-nodes-langchain.vectorStorePGVector": {
+            "count": 2
+        },
+        "@n8n/n8n-nodes-langchain.retrieverVectorStore": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.documentDefaultDataLoader": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 42,
+            "name": "Internal Wiki"
+        },
+        {
+            "id": 48,
+            "name": "AI RAG"
+        }
+    ]
+}

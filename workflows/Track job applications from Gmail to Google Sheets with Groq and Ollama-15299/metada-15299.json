@@ -1,0 +1,48 @@
+{
+    "user_name": "Rishi",
+    "user_username": "rishiii",
+    "user_bio": "A fullstack developer and an automation enthusiast",
+    "user_links": "https://x.com/rishTwtz_",
+    "user_avatar": "https://gravatar.com/avatar/45831dfdfa606371bc0c60fb680eab5f0c2a19a3ca06771ac488995a9e1644fc?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15299\n",
+    "url_n8n": "https://n8n.io/workflows/15299",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 2
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-base.function": {
+            "count": 9
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 8
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 2
+        },
+        "n8n-nodes-base.gmailTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 3
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 43,
+            "name": "Personal Productivity"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

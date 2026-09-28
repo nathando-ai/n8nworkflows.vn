@@ -1,0 +1,48 @@
+{
+    "user_name": "Turag Sarkar",
+    "user_username": "turagsarkar",
+    "user_bio": "AI Automation Specialist at SM Technology, Dhaka. I build agentic workflows and n8n pipelines for businesses, deliver automation projects for international clients, and offer custom n8n services through my portfolio. I also write n8n tutorials on Medium covering installation, use cases, and real workflows. Open to consulting and template work. \nReach me on LinkedIn: https://linkedin.com/in/turagsarkar  \nServices: turagsarkar.github.io/portfolio ",
+    "user_links": "https://medium.com/@turagsarkar",
+    "user_avatar": "https://gravatar.com/avatar/c12224c9c3074b26ddf4f61654dc1d1a714dd442deafcda074db1d8629ed8660?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15784\n",
+    "url_n8n": "https://n8n.io/workflows/15784",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 6
+        },
+        "n8n-nodes-base.code": {
+            "count": 7
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 2
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 12
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 7
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 6
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 2
+        },
+        "n8n-nodes-base.respondToWebhook": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 39,
+            "name": "CRM"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

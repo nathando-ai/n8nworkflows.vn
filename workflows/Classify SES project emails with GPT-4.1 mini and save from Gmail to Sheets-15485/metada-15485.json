@@ -1,0 +1,45 @@
+{
+    "user_name": "Fujii Ryota",
+    "user_username": "nikoboc",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/f78f64c562a08340ca7048f3cb2df7b83bab0f9a741e42fc868d4101c2ad999e?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15485\n",
+    "url_n8n": "https://n8n.io/workflows/15485",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 1
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.gmailTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.openAi": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 35,
+            "name": "Document Extraction"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

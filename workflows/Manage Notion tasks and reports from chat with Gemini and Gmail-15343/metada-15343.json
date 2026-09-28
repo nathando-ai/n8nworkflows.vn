@@ -1,0 +1,72 @@
+{
+    "user_name": "Minibox Digital",
+    "user_username": "tajammul-iqbal",
+    "user_bio": "Custom n8n workflows, HubSpot integrations, and bespoke CRMs — built for service businesses that want to scale without hiring more people to do repetitive work.",
+    "user_links": "www.miniboxdigital.com",
+    "user_avatar": "https://gravatar.com/avatar/12e9d867b6bd8c40f84d5bde245d47d2b79c1f264f224585e2bd52c6b37d299b?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15343\n",
+    "url_n8n": "https://n8n.io/workflows/15343",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.set": {
+            "count": 2
+        },
+        "n8n-nodes-base.code": {
+            "count": 3
+        },
+        "n8n-nodes-base.notion": {
+            "count": 2
+        },
+        "n8n-nodes-base.switch": {
+            "count": 1
+        },
+        "n8n-nodes-base.dateTime": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmailTool": {
+            "count": 1
+        },
+        "n8n-nodes-base.notionTool": {
+            "count": 5
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.dateTimeTool": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 7
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 3
+        },
+        "@n8n/n8n-nodes-langchain.chatTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.googleGemini": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.toolWorkflow": {
+            "count": 2
+        },
+        "n8n-nodes-base.executeWorkflowTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatGoogleGemini": {
+            "count": 7
+        }
+    },
+    "categories": [
+        {
+            "id": 46,
+            "name": "Project Management"
+        },
+        {
+            "id": 47,
+            "name": "AI Chatbot"
+        }
+    ]
+}

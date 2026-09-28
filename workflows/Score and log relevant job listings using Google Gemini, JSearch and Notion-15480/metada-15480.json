@@ -1,0 +1,57 @@
+{
+    "user_name": "Navneet Singh Arora",
+    "user_username": "navneet-singh-arora",
+    "user_bio": "AI/ML Engineer with 8+ years building production systems. I self-host n8n as the backbone of my automation stack — connecting LLMs, APIs, and CI/CD pipelines. At Repath I architect AI-powered climate solutions; on the side I share workflows for agentic AI, developer productivity, and zero-cost self-hosting.",
+    "user_links": "www.navneetsingharora.com",
+    "user_avatar": "https://gravatar.com/avatar/5ec5a0a79c4eecbf935e14ed6b6695ad84a0e95f0de3d229310be081f304a2f6?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15480\n",
+    "url_n8n": "https://n8n.io/workflows/15480",
+    "nodeTypes": {
+        "n8n-nodes-base.code": {
+            "count": 1
+        },
+        "n8n-nodes-base.wait": {
+            "count": 1
+        },
+        "n8n-nodes-base.filter": {
+            "count": 2
+        },
+        "n8n-nodes-base.notion": {
+            "count": 3
+        },
+        "n8n-nodes-base.splitOut": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 11
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.readWriteFile": {
+            "count": 1
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "n8n-nodes-base.extractFromFile": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.googleGemini": {
+            "count": 2
+        }
+    },
+    "categories": [
+        {
+            "id": 43,
+            "name": "Personal Productivity"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

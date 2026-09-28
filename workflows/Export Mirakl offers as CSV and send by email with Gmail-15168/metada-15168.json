@@ -1,0 +1,35 @@
+{
+    "user_name": "Eric Rigollet",
+    "user_username": "eric31",
+    "user_bio": "Passionné par la data et l’automatisation, je conçois des workflows intelligents avec n8n pour optimiser les processus métiers et gagner en efficacité. Issu d’un parcours en data analytics, je combine compétences techniques (Python, SQL, APIs) et vision business pour créer des solutions concrètes et performantes. J’explore activement les synergies entre automatisation, data engineering et IA pour développer des systèmes robustes et évolutifs.",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/7dcf46152f34c5f895a2dd768a4f99e5704d2d03f0297e5290d1ed1bad61e959?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15168\n",
+    "url_n8n": "https://n8n.io/workflows/15168",
+    "nodeTypes": {
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 4
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 36,
+            "name": "File Management"
+        }
+    ]
+}

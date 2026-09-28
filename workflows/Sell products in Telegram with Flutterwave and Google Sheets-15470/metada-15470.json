@@ -1,0 +1,51 @@
+{
+    "user_name": "Afigo Sam",
+    "user_username": "sampidia",
+    "user_bio": "Helping businesses scale through automation and custom web/mobile apps. 6+ years of expertise. Available for projects and 1-on-1 video consultations.",
+    "user_links": "https://portfolio.sampidia.com/",
+    "user_avatar": "https://gravatar.com/avatar/446a810907ad69ce5f47b895775f359774b7eed4f9ba1afdefe2c27859713872?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15470\n",
+    "url_n8n": "https://n8n.io/workflows/15470",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 16
+        },
+        "n8n-nodes-base.code": {
+            "count": 18
+        },
+        "n8n-nodes-base.merge": {
+            "count": 1
+        },
+        "n8n-nodes-base.switch": {
+            "count": 3
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.telegram": {
+            "count": 19
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 14
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 8
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 31
+        },
+        "n8n-nodes-base.telegramTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 39,
+            "name": "CRM"
+        },
+        {
+            "id": 47,
+            "name": "AI Chatbot"
+        }
+    ]
+}

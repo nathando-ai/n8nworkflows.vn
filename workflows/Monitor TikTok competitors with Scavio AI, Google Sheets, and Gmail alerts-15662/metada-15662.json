@@ -1,0 +1,44 @@
+{
+    "user_name": "Scavio AI",
+    "user_username": "scavio-ai",
+    "user_bio": "Scavio is a real-time search API for Google, Amazon, Walmart, YouTube, and Reddit — clean structured JSON for AI agents and automation. We ship official integrations for n8n, LangChain, and MCP. Free tier: 500 credits/month at scavio.dev. Templates here use the n8n-nodes-scavio community node.",
+    "user_links": "https://scavio.dev",
+    "user_avatar": "https://gravatar.com/avatar/ccf5be6347bce2632472b888a798a07c36a89b6af2e11c3fa0ce107e3f34cf6f?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15662\n",
+    "url_n8n": "https://n8n.io/workflows/15662",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 3
+        },
+        "n8n-nodes-base.wait": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-scavio.scavio": {
+            "count": 2
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 3
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 32,
+            "name": "Market Research"
+        }
+    ]
+}

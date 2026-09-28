@@ -1,0 +1,48 @@
+{
+    "user_name": "ToolMonsters",
+    "user_username": "toolmonsters",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/e617b7e785551b687481c9fb6a7979c61398b5bb010c4936a6b5250ebca6c984?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15483\n",
+    "url_n8n": "https://n8n.io/workflows/15483",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 1
+        },
+        "n8n-nodes-base.slack": {
+            "count": 1
+        },
+        "n8n-nodes-base.airtable": {
+            "count": 2
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.anthropic": {
+            "count": 1
+        },
+        "@brightdata/n8n-nodes-brightdata.brightData": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 32,
+            "name": "Market Research"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

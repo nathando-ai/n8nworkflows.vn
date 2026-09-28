@@ -1,0 +1,41 @@
+{
+    "user_name": "Sharon",
+    "user_username": "sharonraziel",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/be1c6b455675db15fd199edf58eff2ef6cab634989a0bd11208134245f06c3ad?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15341\n",
+    "url_n8n": "https://n8n.io/workflows/15341",
+    "nodeTypes": {
+        "n8n-nodes-base.set": {
+            "count": 2
+        },
+        "n8n-nodes-base.slack": {
+            "count": 1
+        },
+        "n8n-nodes-base.switch": {
+            "count": 1
+        },
+        "n8n-nodes-base.hubspot": {
+            "count": 2
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 1
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-neverbounce-email-verification.nbEmailVerification": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 39,
+            "name": "CRM"
+        }
+    ]
+}

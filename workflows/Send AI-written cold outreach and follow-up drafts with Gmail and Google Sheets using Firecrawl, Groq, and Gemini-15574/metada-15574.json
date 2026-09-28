@@ -1,0 +1,78 @@
+{
+    "user_name": "folorunso victor",
+    "user_username": "wizard",
+    "user_bio": "Right now, your business is majoring in minor tasks. You are likely burning up 80% of your time, money, and energy on the administrative \"noise\" that keeps the lights on, leaving you with only 20% of your resources to actually focus on the work that makes you money.\n\n\n\nI build the systems that flip that ratio. By combining n8n workflows with a broad background in software engineering, I close the gap between \"regular automation\" and the logic your business actually needs to scale 🚀 ",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/dbba4dc15c55e27f0ea429adaa1d20484c06ab95a463c41061375a189ee5a7d7?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15574\n",
+    "url_n8n": "https://n8n.io/workflows/15574",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 7
+        },
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 8
+        },
+        "n8n-nodes-base.wait": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 6
+        },
+        "n8n-nodes-base.filter": {
+            "count": 4
+        },
+        "n8n-nodes-base.aggregate": {
+            "count": 4
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 33
+        },
+        "n8n-nodes-do-while.doWhile": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 10
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 2
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 5
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 4
+        },
+        "@n8n/n8n-nodes-langchain.chainLlm": {
+            "count": 2
+        },
+        "n8n-nodes-verifiemail.verifiEmail": {
+            "count": 2
+        },
+        "@n8n/n8n-nodes-langchain.lmChatGroq": {
+            "count": 2
+        },
+        "@mendable/n8n-nodes-firecrawl.firecrawl": {
+            "count": 8
+        },
+        "@n8n/n8n-nodes-langchain.lmChatGoogleGemini": {
+            "count": 4
+        },
+        "@n8n/n8n-nodes-langchain.memoryBufferWindow": {
+            "count": 2
+        }
+    },
+    "categories": [
+        {
+            "id": 38,
+            "name": "Lead Nurturing"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "user_name": "Abi Odedeyi",
+    "user_username": "abiodedeyi",
+    "user_bio": "Fintech C-Suite turned AI Automation Consultant and Educator. \n\nI build production AI automation systems for small and mid-market businesses. I also help enterprises in their AI enablement journey. I teach AI Automation in a practical and non-technical way. \n\nn8n Certified, Airtable Certified Builder, and CPD-accredited AI trainer with 500+ professionals trained globally. UK Government Exceptional Talent in Technology.  \n\nVisit my website at https://www.codefreeiq.com",
+    "user_links": "https://linkedin.com/in/abiodedeyi",
+    "user_avatar": "https://gravatar.com/avatar/0d1b5e2a68e687870adf34e3d33fe9e78f0bb2c4410fb32ab38b125e9720c79f?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15780\n",
+    "url_n8n": "https://n8n.io/workflows/15780",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 2
+        },
+        "n8n-nodes-base.code": {
+            "count": 2
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 5
+        },
+        "n8n-nodes-base.limit": {
+            "count": 1
+        },
+        "n8n-nodes-base.twilio": {
+            "count": 1
+        },
+        "n8n-nodes-base.airtable": {
+            "count": 5
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 18
+        },
+        "n8n-nodes-base.airtableTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 41,
+            "name": "Ticket Management"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

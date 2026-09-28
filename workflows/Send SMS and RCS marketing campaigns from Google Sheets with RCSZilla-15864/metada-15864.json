@@ -1,0 +1,41 @@
+{
+    "user_name": "Five Quantum Bits",
+    "user_username": "fiveqb",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/659ec2359032c56b2385b903d7454947921ee62c77480db6d61e16ca5c2242f8?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15864\n",
+    "url_n8n": "https://n8n.io/workflows/15864",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 2
+        },
+        "n8n-nodes-base.code": {
+            "count": 2
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 11
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 5
+        },
+        "n8n-nodes-rcszilla.rcsZilla": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.respondToWebhook": {
+            "count": 2
+        }
+    },
+    "categories": [
+        {
+            "id": 33,
+            "name": "Social Media"
+        }
+    ]
+}

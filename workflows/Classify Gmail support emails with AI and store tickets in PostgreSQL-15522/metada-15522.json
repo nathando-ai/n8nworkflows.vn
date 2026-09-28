@@ -1,0 +1,45 @@
+{
+    "user_name": "Jyothish S L",
+    "user_username": "jyothishsl",
+    "user_bio": "Automation professional with experience in designing and delivering enterprise-grade automation solutions across banking, government, and ERP domains. Focused on improving business efficiency, reducing manual effort, and enabling scalable digital transformation.",
+    "user_links": "linkedin.com/in/jyothish-s-l-52446720b",
+    "user_avatar": "https://gravatar.com/avatar/bab38c8a1d6bdbe250f8440fe733bd76a2d4619a16e238084058ba8f54baed02?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15522\n",
+    "url_n8n": "https://n8n.io/workflows/15522",
+    "nodeTypes": {
+        "n8n-nodes-base.code": {
+            "count": 6
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 2
+        },
+        "n8n-nodes-base.postgres": {
+            "count": 4
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.gmailTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmOllama": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.textClassifier": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 41,
+            "name": "Ticket Management"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

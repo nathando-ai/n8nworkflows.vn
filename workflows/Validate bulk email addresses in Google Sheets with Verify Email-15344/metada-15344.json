@@ -1,0 +1,44 @@
+{
+    "user_name": "Alex",
+    "user_username": "crispy",
+    "user_bio": "I’m Alex — I design n8n workflows for marketing and ops teams who care about deliverability and data quality. My templates combine the verify-email.app MCP and REST APIs with Slack, HubSpot, Sheets, and Airtable so you can validate leads, bulk-check lists, and get weekly intelligence reports. Everything is built to be copied, credentialed, and run in production, with clear setup notes in the canvas.",
+    "user_links": "https://verify-email.app",
+    "user_avatar": "https://gravatar.com/avatar/8c4df48f14cbdf05df06dac40af7ae0478392a63739f6e6369c3252dc93fef8a?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15344\n",
+    "url_n8n": "https://n8n.io/workflows/15344",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 2
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 2
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 35,
+            "name": "Document Extraction"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "user_name": "AI Solutions",
+    "user_username": "legalgpts",
+    "user_bio": "",
+    "user_links": "https://aisolutions.legal",
+    "user_avatar": "https://gravatar.com/avatar/a9eef77b59c344b82511050992dfdf8461df3904a97bd238c0056ce4f03c4ffa?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15723\n",
+    "url_n8n": "https://n8n.io/workflows/15723",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 2
+        },
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 7
+        },
+        "n8n-nodes-base.merge": {
+            "count": 2
+        },
+        "n8n-nodes-base.filter": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 4
+        },
+        "n8n-nodes-base.microsoftExcel": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.microsoftOutlook": {
+            "count": 3
+        },
+        "@n8n/n8n-nodes-langchain.chainLlm": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOpenAi": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 34,
+            "name": "Invoice Processing"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

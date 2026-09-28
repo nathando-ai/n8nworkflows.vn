@@ -1,0 +1,48 @@
+{
+    "user_name": "Yevhenii",
+    "user_username": "neolith2018",
+    "user_bio": "AI automation specialist building practical n8n workflows for business. Background in archaeology and professional translation — I bring structured, detail-oriented thinking to every automation project. Currently building a modular Restaurant AI Suite and publishing ready-to-use workflow templates.",
+    "user_links": "https://neolithai.netlify.app",
+    "user_avatar": "https://gravatar.com/avatar/90beef3a19c86a910dbe697c26d2a706c85b2db885052521b343e20d0c4c957d?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15360\n",
+    "url_n8n": "https://n8n.io/workflows/15360",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 2
+        },
+        "n8n-nodes-base.telegram": {
+            "count": 5
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 1
+        },
+        "n8n-nodes-base.telegramTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.openAi": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOpenAi": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 31,
+            "name": "Content Creation"
+        },
+        {
+            "id": 51,
+            "name": "Multimodal AI"
+        }
+    ]
+}

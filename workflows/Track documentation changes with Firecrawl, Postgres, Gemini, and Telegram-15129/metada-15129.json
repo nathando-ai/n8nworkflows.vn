@@ -1,0 +1,54 @@
+{
+    "user_name": "THE NEXOVA",
+    "user_username": "thenexova",
+    "user_bio": "We're a Strategic Operations & Implementation Partner - bridging Strategy to Execution for SMEs and foreign investors in Vietnam - from digital operations architecture to process automation. Creator of Firecrawl v2 node and CI automation tools.",
+    "user_links": "https://thenexova.com",
+    "user_avatar": "https://gravatar.com/avatar/421e98e3bb880715e944137d5b7c43d35448d6ed39f91f5c11caf37896f92149?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15129\n",
+    "url_n8n": "https://n8n.io/workflows/15129",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 3
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 1
+        },
+        "n8n-nodes-base.filter": {
+            "count": 1
+        },
+        "n8n-nodes-base.postgres": {
+            "count": 1
+        },
+        "n8n-nodes-base.telegram": {
+            "count": 1
+        },
+        "n8n-nodes-base.aggregate": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 7
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-firecrawl-v2.firecrawl": {
+            "count": 2
+        },
+        "@n8n/n8n-nodes-langchain.googleGemini": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 32,
+            "name": "Market Research"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

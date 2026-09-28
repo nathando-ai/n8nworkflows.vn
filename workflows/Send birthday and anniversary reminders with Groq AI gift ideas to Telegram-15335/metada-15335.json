@@ -1,0 +1,45 @@
+{
+    "user_name": "Muhammad Mahamid",
+    "user_username": "muhammad89v",
+    "user_bio": "Senior Full-Stack & AI Engineer | 9+ years | MSc Computer Vision\nBuilding AI-powered automation workflows. From enterprise cloud migration to deep learning pipelines. Open to collaborations.",
+    "user_links": "https://www.linkedin.com/in/muhammad89v",
+    "user_avatar": "https://gravatar.com/avatar/3320ffd7b22dcc11aad9302eb68d1bfd1142ebe634be0954f47adc4ef86e575f?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15335\n",
+    "url_n8n": "https://n8n.io/workflows/15335",
+    "nodeTypes": {
+        "n8n-nodes-base.code": {
+            "count": 3
+        },
+        "n8n-nodes-base.telegram": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 1
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.chainLlm": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatGroq": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 43,
+            "name": "Personal Productivity"
+        },
+        {
+            "id": 51,
+            "name": "Multimodal AI"
+        }
+    ]
+}

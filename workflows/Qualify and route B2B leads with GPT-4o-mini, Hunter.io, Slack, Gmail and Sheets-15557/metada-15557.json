@@ -1,0 +1,48 @@
+{
+    "user_name": "SPCTEK AI",
+    "user_username": "spctek-ai",
+    "user_bio": "SPCTEK.AI is developing a suite of practical AI-powered tools and operational systems designed to help businesses understand, improve, and scale their processes.\n\nOur focus is not on building complex platforms. We build solutions that are simple, usable, and directly connected to real business operations.",
+    "user_links": "https://www.spctek.ai/",
+    "user_avatar": "https://gravatar.com/avatar/3790083ab4475565ac0a4088201b8d855ef4ae235bd32907e4cb94c498f7a963?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15557\n",
+    "url_n8n": "https://n8n.io/workflows/15557",
+    "nodeTypes": {
+        "n8n-nodes-base.set": {
+            "count": 9
+        },
+        "n8n-nodes-base.code": {
+            "count": 4
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 2
+        },
+        "n8n-nodes-base.slack": {
+            "count": 1
+        },
+        "n8n-nodes-base.switch": {
+            "count": 1
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 12
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 3
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 37,
+            "name": "Lead Generation"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "user_name": "Mark Cifral",
+    "user_username": "markcifral",
+    "user_bio": "System Sales Engineer turned automation founder. I build production-grade n8n workflows for B2B lead enrichment, WhatsApp AI agents, and proposal automation. Founder @ Cifral Solutions (www.cifral.io)",
+    "user_links": "https://www.cifral.io",
+    "user_avatar": "https://gravatar.com/avatar/9fcc21f6f7101f9c4d45162aefb06fefa0fce8981779bcd6dfc80e49915a31e0?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15491\n",
+    "url_n8n": "https://n8n.io/workflows/15491",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 5
+        },
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 5
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 3
+        },
+        "n8n-nodes-base.wait": {
+            "count": 1
+        },
+        "n8n-nodes-base.notion": {
+            "count": 4
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.telegram": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 4
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.openAi": {
+            "count": 1
+        },
+        "n8n-nodes-base.respondToWebhook": {
+            "count": 4
+        },
+        "@n8n/n8n-nodes-langchain.lmChatAnthropic": {
+            "count": 3
+        },
+        "@n8n/n8n-nodes-langchain.sentimentAnalysis": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.memoryBufferWindow": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.informationExtractor": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 40,
+            "name": "Support Chatbot"
+        },
+        {
+            "id": 47,
+            "name": "AI Chatbot"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "user_name": "Sudhanshu Chauhan",
+    "user_username": "sudhanshuchauhan",
+    "user_bio": "Co-Founder RedHunt Labs. Cyber Security Professional. OSINT/Recon Enthusiast.\n\nhttps://www.linkedin.com/in/sudhanshuchauhan/",
+    "user_links": "https://x.com/Sudhanshu_C",
+    "user_avatar": "https://gravatar.com/avatar/400fff337d8632aaad7ad93133b83d3b8b20acab7ea062dc681adb29ea5e2fb8?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15700\n",
+    "url_n8n": "https://n8n.io/workflows/15700",
+    "nodeTypes": {
+        "n8n-nodes-base.code": {
+            "count": 6
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-base.slack": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 12
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 4
+        },
+        "n8n-nodes-base.extractFromFile": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 29,
+            "name": "SecOps"
+        }
+    ]
+}

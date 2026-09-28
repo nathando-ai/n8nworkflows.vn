@@ -1,0 +1,48 @@
+{
+    "user_name": "Meet Soni",
+    "user_username": "meet12",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/27e600c37bfc678a0d587977dae954696178c9442b2448a9ca3b4ce88ac0f5c1?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15323\n",
+    "url_n8n": "https://n8n.io/workflows/15323",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.wait": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-base.twilio": {
+            "count": 2
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 2
+        },
+        "@n8n/n8n-nodes-langchain.openAi": {
+            "count": 2
+        },
+        "n8n-nodes-base.respondToWebhook": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 38,
+            "name": "Lead Nurturing"
+        },
+        {
+            "id": 47,
+            "name": "AI Chatbot"
+        }
+    ]
+}

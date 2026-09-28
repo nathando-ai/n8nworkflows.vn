@@ -1,0 +1,54 @@
+{
+    "user_name": "Missy Learns AI",
+    "user_username": "missylearnsai",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/ee4d6d874ebe9ef15ec246e712a54443aa019bbb0937fbc66d524c562f7c9658?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15463\n",
+    "url_n8n": "https://n8n.io/workflows/15463",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 2
+        },
+        "n8n-nodes-base.set": {
+            "count": 2
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 2
+        },
+        "n8n-nodes-base.merge": {
+            "count": 1
+        },
+        "n8n-nodes-base.splitOut": {
+            "count": 1
+        },
+        "n8n-nodes-base.aggregate": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 16
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 3
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.chainLlm": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOpenAi": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 43,
+            "name": "Personal Productivity"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

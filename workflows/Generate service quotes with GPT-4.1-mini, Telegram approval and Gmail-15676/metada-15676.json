@@ -1,0 +1,54 @@
+{
+    "user_name": "Elias Jakob",
+    "user_username": "eliasjakob",
+    "user_bio": "Automation & AI Agent Designer with strong business strategy thinking. Finance domain expert. 5+ years as a consultant in Germany at Deloitte, MHP Porsche, and Aldi Süd.",
+    "user_links": "https://www.linkedin.com/in/eliasjakob/",
+    "user_avatar": "https://gravatar.com/avatar/b07635a0efa76e233ade3cafa9dcbb8b80a60fcfbea301af929d8154c4a8abf5?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15676\n",
+    "url_n8n": "https://n8n.io/workflows/15676",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 3
+        },
+        "n8n-nodes-base.set": {
+            "count": 3
+        },
+        "n8n-nodes-base.code": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 6
+        },
+        "n8n-nodes-base.switch": {
+            "count": 2
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.telegram": {
+            "count": 6
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 7
+        },
+        "n8n-nodes-pdfmonkey.pdfMonkey": {
+            "count": 2
+        },
+        "@n8n/n8n-nodes-langchain.openAi": {
+            "count": 1
+        },
+        "n8n-nodes-tallyforms.tallyTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 35,
+            "name": "Document Extraction"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

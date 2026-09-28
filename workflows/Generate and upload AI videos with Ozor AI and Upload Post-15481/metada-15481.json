@@ -1,0 +1,33 @@
+{
+    "user_name": "OzorAI",
+    "user_username": "ozorai",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/93ea8af949d6d48832bbc0536c4f02836945e211b48a0297e2d2f881853d2c50?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15481\n",
+    "url_n8n": "https://n8n.io/workflows/15481",
+    "nodeTypes": {
+        "n8n-nodes-ozor.ozor": {
+            "count": 3
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-upload-post.uploadPost": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 31,
+            "name": "Content Creation"
+        },
+        {
+            "id": 51,
+            "name": "Multimodal AI"
+        }
+    ]
+}

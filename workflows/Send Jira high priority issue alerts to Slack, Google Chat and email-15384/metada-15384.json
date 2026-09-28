@@ -1,0 +1,38 @@
+{
+    "user_name": "Anas Chahid Ksabi",
+    "user_username": "anasks",
+    "user_bio": "AI Automation Engineer specializing in n8n workflows. I help businesses turn manual processes into efficient, automated systems that deliver real value.\n\nOpen to discussing your workflow. Stop wasting time, Start automating.",
+    "user_links": "https://aixautomation.tech/",
+    "user_avatar": "https://gravatar.com/avatar/6b914e65d44c409ad6b96abc45249ac592347c44b8c53470fc88ac0451cb327b?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15384\n",
+    "url_n8n": "https://n8n.io/workflows/15384",
+    "nodeTypes": {
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-base.slack": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleChat": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 2
+        },
+        "n8n-nodes-base.jiraTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 41,
+            "name": "Ticket Management"
+        }
+    ]
+}

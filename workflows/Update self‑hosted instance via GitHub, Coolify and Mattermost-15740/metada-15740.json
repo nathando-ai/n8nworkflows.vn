@@ -1,0 +1,35 @@
+{
+    "user_name": "Joe Castle",
+    "user_username": "joe-castle",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/a8509bade7f689c68e344148ee1132187481dfa0666f728c86a31055c5e1898c?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15740\n",
+    "url_n8n": "https://n8n.io/workflows/15740",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.n8n": {
+            "count": 1
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 3
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 16,
+            "name": "DevOps"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "user_name": "Afeez",
+    "user_username": "tundek",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/79f03d964860d8fbcd65ceed59ca1e88764993743eb2e6b31d17632816b3b4cf?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15359\n",
+    "url_n8n": "https://n8n.io/workflows/15359",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 6
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 2
+        },
+        "n8n-nodes-base.postgres": {
+            "count": 3
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 9
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.errorTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 32,
+            "name": "Market Research"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

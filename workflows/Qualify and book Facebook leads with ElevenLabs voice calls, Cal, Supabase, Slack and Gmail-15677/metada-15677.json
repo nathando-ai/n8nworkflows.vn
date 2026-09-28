@@ -1,0 +1,48 @@
+{
+    "user_name": "Johnpaul Nwagwu",
+    "user_username": "johnpaulnwagwu",
+    "user_bio": "Hi. I love solving business problems using automations that drive operational efficiency. If you would ever like to chat reach me at johnpaul@praxisolva.com",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/2fe334174853d8419e272c2634b28cd49917448cfb1d86d80b2a1439cfe547fa?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15677\n",
+    "url_n8n": "https://n8n.io/workflows/15677",
+    "nodeTypes": {
+        "n8n-nodes-base.set": {
+            "count": 2
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 2
+        },
+        "n8n-nodes-base.slack": {
+            "count": 2
+        },
+        "n8n-nodes-base.switch": {
+            "count": 1
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.supabase": {
+            "count": 3
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 3
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.facebookLeadAdsTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 38,
+            "name": "Lead Nurturing"
+        },
+        {
+            "id": 47,
+            "name": "AI Chatbot"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "user_name": "Tan Yit Shen",
+    "user_username": "shenn",
+    "user_bio": "Just a Software Engineering undergraduate passionate about creating automations that simplify workflows, improving efficiency and productivity!",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/27304c9020f775be1e7f157f0bf1ce094fd085927e676ba99295e2ff9d781095?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15814\n",
+    "url_n8n": "https://n8n.io/workflows/15814",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.set": {
+            "count": 10
+        },
+        "n8n-nodes-base.wait": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 1
+        },
+        "n8n-nodes-base.switch": {
+            "count": 1
+        },
+        "n8n-nodes-base.wordpress": {
+            "count": 3
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 13
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 11
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 7
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 2
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOpenAi": {
+            "count": 4
+        },
+        "@n8n/n8n-nodes-langchain.outputParserStructured": {
+            "count": 2
+        }
+    },
+    "categories": [
+        {
+            "id": 31,
+            "name": "Content Creation"
+        },
+        {
+            "id": 51,
+            "name": "Multimodal AI"
+        }
+    ]
+}

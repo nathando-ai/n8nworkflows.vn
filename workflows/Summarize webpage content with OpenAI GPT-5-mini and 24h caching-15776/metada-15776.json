@@ -1,0 +1,51 @@
+{
+    "user_name": "Wetomate AI",
+    "user_username": "wetomate-ai",
+    "user_bio": "Wetomate AI Solutions; Leverage AI models, agents and intelligent decision-making to automate complex tasks and deliver smarter outcomes.\n\n",
+    "user_links": "https://wetomate.de",
+    "user_avatar": "https://gravatar.com/avatar/c9f2d75871f543c8a2c0d4d7d97e8e745c88e0c089aa84d232a9d50e5ae501aa?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15776\n",
+    "url_n8n": "https://n8n.io/workflows/15776",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 2
+        },
+        "n8n-nodes-base.html": {
+            "count": 1
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOpenAi": {
+            "count": 1
+        },
+        "n8n-nodes-base.executeWorkflowTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.chainSummarization": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 35,
+            "name": "Document Extraction"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "user_name": "Afeez",
+    "user_username": "tundek",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/79f03d964860d8fbcd65ceed59ca1e88764993743eb2e6b31d17632816b3b4cf?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15554\n",
+    "url_n8n": "https://n8n.io/workflows/15554",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 2
+        },
+        "n8n-nodes-base.set": {
+            "count": 2
+        },
+        "n8n-nodes-base.code": {
+            "count": 2
+        },
+        "n8n-nodes-base.wait": {
+            "count": 1
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 3
+        },
+        "n8n-nodes-base.merge": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 3
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "n8n-nodes-base.scheduleTrigger": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 37,
+            "name": "Lead Generation"
+        }
+    ]
+}

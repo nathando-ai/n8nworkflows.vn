@@ -1,0 +1,57 @@
+{
+    "user_name": "Michael Anz",
+    "user_username": "mican",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/23dab5836947893681588210560db9621de61676682733877b18f2b0848316a3?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15654\n",
+    "url_n8n": "https://n8n.io/workflows/15654",
+    "nodeTypes": {
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.merge": {
+            "count": 3
+        },
+        "n8n-nodes-base.aggregate": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 2
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 3
+        },
+        "@n8n/n8n-nodes-langchain.openAi": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleSheetsTool": {
+            "count": 3
+        },
+        "@n8n/n8n-nodes-langchain.googleGemini": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOpenAi": {
+            "count": 3
+        }
+    },
+    "categories": [
+        {
+            "id": 32,
+            "name": "Market Research"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "user_name": "Mohamad Sasa",
+    "user_username": "mo-avalency",
+    "user_bio": "I’m a fully self-taught web, AI, and software developer. I started in Web3, where I co-founded and helped scale a leading software development firm building products and infrastructure for blockchain teams. Today, I’m the Founder & CEO of Avalency Studio, where we help traditional businesses build high-performance websites, software, and AI systems focused on growth and efficiency",
+    "user_links": "https://www.linkedin.com/in/mohamad-sasa-1543603b7/",
+    "user_avatar": "https://gravatar.com/avatar/4cfaed61649811d5248253253e5b69b297baeef5bda4b6bb57184e1936915320?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15648\n",
+    "url_n8n": "https://n8n.io/workflows/15648",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 4
+        },
+        "n8n-nodes-base.gmail": {
+            "count": 2
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 3
+        },
+        "@n8n/n8n-nodes-langchain.openAi": {
+            "count": 1
+        },
+        "n8n-nodes-base.respondToWebhook": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 37,
+            "name": "Lead Generation"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

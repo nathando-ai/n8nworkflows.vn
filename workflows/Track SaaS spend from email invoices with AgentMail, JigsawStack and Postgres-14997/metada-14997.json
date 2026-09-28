@@ -1,0 +1,63 @@
+{
+    "user_name": "Stephan Koning",
+    "user_username": "reklaim",
+    "user_bio": "Account Executive by day , Noco builder for fun at night and always a proud dad of Togo the Samoyed.",
+    "user_links": "https://linkedin.com/in/stephan-koning",
+    "user_avatar": "https://gravatar.com/avatar/b031dafd83a3b9b7c7df6fd650d0a21a51a3eb8f27ff0f15a527ca834c13bf2b?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/14997\n",
+    "url_n8n": "https://n8n.io/workflows/14997",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 3
+        },
+        "n8n-nodes-base.code": {
+            "count": 11
+        },
+        "n8n-nodes-base.wait": {
+            "count": 2
+        },
+        "n8n-nodes-base.switch": {
+            "count": 1
+        },
+        "n8n-nodes-base.webhook": {
+            "count": 1
+        },
+        "n8n-nodes-base.postgres": {
+            "count": 17
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 23
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 8
+        },
+        "n8n-nodes-base.stopAndError": {
+            "count": 1
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "n8n-nodes-base.executeWorkflow": {
+            "count": 1
+        },
+        "n8n-nodes-base.executeWorkflowTrigger": {
+            "count": 1
+        },
+        "@franknitty69/n8n-nodes-redis-advanced.redisAdvanced": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 34,
+            "name": "Invoice Processing"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "user_name": "Tricore Infotech Pvt Ltd",
+    "user_username": "jinitp",
+    "user_bio": "",
+    "user_links": "https://tricoreitsolutions.com/",
+    "user_avatar": "https://gravatar.com/avatar/05a4ebbf362bb5ad57b765d4d7a7fb43c88f9bd0446a2711f5d8ddd9dee995f2?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15738\n",
+    "url_n8n": "https://n8n.io/workflows/15738",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 1
+        },
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 5
+        },
+        "n8n-nodes-base.formTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.errorTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.stopAndError": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 1
+        },
+        "n8n-nodes-base.respondToWebhook": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.chatTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatGoogleGemini": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.memoryPostgresChat": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.vectorStoreSupabase": {
+            "count": 2
+        },
+        "@n8n/n8n-nodes-langchain.embeddingsGoogleGemini": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.documentDefaultDataLoader": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.textSplitterCharacterTextSplitter": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 42,
+            "name": "Internal Wiki"
+        },
+        {
+            "id": 48,
+            "name": "AI RAG"
+        }
+    ]
+}

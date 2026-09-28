@@ -1,0 +1,54 @@
+{
+    "user_name": "Taiwo Hassan",
+    "user_username": "taiwo",
+    "user_bio": "Software engineer by day, automation architect by night. I translate complex business logic into elegant automated sequences. My approach is simple, clean architecture, modular design, and zero fluff. If it can be automated, I’ve probably already built a node for it.",
+    "user_links": "https://www.linkedin.com/in/taiwo-hassan-oo7/",
+    "user_avatar": "https://gravatar.com/avatar/7d4f2d9bf0f30ce40ed4f18b14c7abf1d34cde75153efa832a27e5d55b58c15a?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15314\n",
+    "url_n8n": "https://n8n.io/workflows/15314",
+    "nodeTypes": {
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 3
+        },
+        "n8n-nodes-base.jira": {
+            "count": 2
+        },
+        "n8n-nodes-base.slack": {
+            "count": 3
+        },
+        "n8n-nodes-base.switch": {
+            "count": 1
+        },
+        "n8n-nodes-base.aggregate": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 4
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 3
+        },
+        "n8n-nodes-base.githubTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOpenRouter": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 29,
+            "name": "SecOps"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

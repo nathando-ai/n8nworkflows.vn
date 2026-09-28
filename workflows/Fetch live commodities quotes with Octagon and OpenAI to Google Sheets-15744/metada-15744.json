@@ -1,0 +1,54 @@
+{
+    "user_name": "Ken So",
+    "user_username": "kenoctagon",
+    "user_bio": "",
+    "user_links": "",
+    "user_avatar": "https://gravatar.com/avatar/3ad719696f7f8df41716ef9ed2c6e5be2a374bd36453fe748678cacbf835e295?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15744\n",
+    "url_n8n": "https://n8n.io/workflows/15744",
+    "nodeTypes": {
+        "n8n-nodes-base.set": {
+            "count": 1
+        },
+        "n8n-nodes-base.code": {
+            "count": 1
+        },
+        "n8n-nodes-base.wait": {
+            "count": 1
+        },
+        "n8n-nodes-base.filter": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 6
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 1
+        },
+        "n8n-nodes-base.googleSheets": {
+            "count": 2
+        },
+        "n8n-nodes-base.manualTrigger": {
+            "count": 1
+        },
+        "n8n-nodes-base.splitInBatches": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.openAi": {
+            "count": 1
+        },
+        "n8n-nodes-octagon.octagonAgents": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 44,
+            "name": "Crypto Trading"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}

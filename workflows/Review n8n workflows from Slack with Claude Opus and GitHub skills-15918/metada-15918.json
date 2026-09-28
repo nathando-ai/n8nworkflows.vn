@@ -1,0 +1,69 @@
+{
+    "user_name": "Liam McGarrigle",
+    "user_username": "liammcgarrigle",
+    "user_bio": "Long time n8n power user. \nCurrently, a developer advocate at n8n. ",
+    "user_links": "https://liammc.gg/links",
+    "user_avatar": "https://gravatar.com/avatar/9de8a66d9ac1323749387abfd66d066b6203ff2968fc17cf53aaaa96ffd5226a?r=pg&d=retro&size=200",
+    "url": "https://n8nworkflows.vn/workflows/15918\n",
+    "url_n8n": "https://n8n.io/workflows/15918",
+    "nodeTypes": {
+        "n8n-nodes-base.if": {
+            "count": 2
+        },
+        "n8n-nodes-base.n8n": {
+            "count": 2
+        },
+        "n8n-nodes-base.set": {
+            "count": 4
+        },
+        "n8n-nodes-base.noOp": {
+            "count": 1
+        },
+        "n8n-nodes-base.merge": {
+            "count": 1
+        },
+        "n8n-nodes-base.slack": {
+            "count": 13
+        },
+        "n8n-nodes-base.filter": {
+            "count": 1
+        },
+        "n8n-nodes-base.splitOut": {
+            "count": 1
+        },
+        "n8n-nodes-base.aggregate": {
+            "count": 1
+        },
+        "n8n-nodes-base.stickyNote": {
+            "count": 9
+        },
+        "n8n-nodes-base.httpRequest": {
+            "count": 2
+        },
+        "n8n-nodes-base.slackTrigger": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.agent": {
+            "count": 1
+        },
+        "n8n-nodes-base.httpRequestTool": {
+            "count": 1
+        },
+        "@n8n/n8n-nodes-langchain.lmChatOpenRouter": {
+            "count": 2
+        },
+        "@n8n/n8n-nodes-langchain.outputParserStructured": {
+            "count": 1
+        }
+    },
+    "categories": [
+        {
+            "id": 5,
+            "name": "Engineering"
+        },
+        {
+            "id": 49,
+            "name": "AI Summarization"
+        }
+    ]
+}
